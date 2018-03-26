@@ -8,3 +8,4 @@ What is done:
 4) configured npm scripts to run nsp check and localtunnel
 5) configured babel
 6) configured webpack
+7) configured eslint
