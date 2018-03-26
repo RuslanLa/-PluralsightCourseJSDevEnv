@@ -7,3 +7,4 @@ What is done:
 3) set up nsp
 4) configured npm scripts to run nsp check and localtunnel
 5) configured babel
+6) configured webpack
