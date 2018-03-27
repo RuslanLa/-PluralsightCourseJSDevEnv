@@ -11,3 +11,4 @@ What is done:
 5) configured babel
 6) configured webpack
 7) configured eslint
+8) configured Travis CI and Appveyor CI
