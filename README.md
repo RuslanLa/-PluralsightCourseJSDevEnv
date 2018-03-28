@@ -12,3 +12,4 @@ What is done:
 6) configured webpack
 7) configured eslint
 8) configured Travis CI and Appveyor CI
+9) implemented API mock with json-schema-faker and json-server
