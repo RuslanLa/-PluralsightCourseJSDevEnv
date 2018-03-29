@@ -14,3 +14,4 @@ What is done:
 8) configured Travis CI and Appveyor CI
 9) implemented API mock with json-schema-faker and json-server
 10) configured production build with: minification, sourcemaps, cache busting, bundle splitting, error logging, dynamic HTML via EmbeddedJS
+11) deployed to surge: http://devenvapi.surge.sh/
